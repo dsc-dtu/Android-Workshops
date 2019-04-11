@@ -14,3 +14,6 @@ https://github.com/dsc-dtu/workshop-canteen-app
 
 ### Roadmap for Android App Development
 https://github.com/dsc-dtu/android-app-dev-roadmap
+
+### Android Layouts Presentation
+https://github.com/dsc-dtu/Android-Workshops/blob/master/Lecture%201/android_layouts.pdf
