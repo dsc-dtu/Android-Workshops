@@ -5,6 +5,9 @@
 * Kotlin Basics
 * Making a Sample App
 
+### Slides and Companion code samples available here
+https://speakerdeck.com/haroldadmin/hello-kotlin
+https://github.com/haroldadmin/Hello-Kotlin
 
 ### Code for Sample App
 https://github.com/dsc-dtu/workshop-canteen-app
